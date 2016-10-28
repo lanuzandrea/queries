@@ -1,1 +1,19 @@
-main.css
+
+
+body {background-color: red;}
+
+element.style{
+
+}
+
+@media (max-width: 1200px){
+body{
+background-color: yellow;
+}
+}
+
+@media (max-width: 700px){
+body{
+background-color: green;
+}
+}
